@@ -1,0 +1,9 @@
+## Build generated
+build/
+DerivedData/
+
+xcuserdata/
+.DS_Store
+
+RealTimeChat/GoogleService-Info.plist
+~          
